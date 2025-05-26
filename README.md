@@ -1,4 +1,4 @@
-# LIGO Strain Visualizer
+# LIGO Gravitational Wave Wrangler
 
 This project demonstrates how to extract, filter, and visualize gravitational wave data from the LIGO experiment using HDF5 files. It is built using Python and includes signal processing techniques suitable for Data Engineering and Scientific Computing portfolios.
 
